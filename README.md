@@ -6,7 +6,7 @@ This project is an interactive **R Shiny dashboard** designed to explore and vis
 The goal is to support **digital health data exploration and decision-making** through simple visual analytics.
 
 #Live Shiny App
-👉 [Click here to view the live app](PASTE_YOUR_SHINYAPP_LINK_HERE)
+👉 [Click here to navigate through the shinny app ( https://adam-g.shinyapps.io/DHP1/)
 
 
  📁 Project Files
