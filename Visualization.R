@@ -174,3 +174,4 @@ ggplot(data, aes(x = diabetes_status, fill = cvd_risk_level)) +
   theme(axis.text.x = element_text(angle = 30, hjust = 1))
 
 
+

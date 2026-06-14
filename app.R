@@ -8,7 +8,7 @@ library(dplyr)
 # LOAD DATA
 # ===============================
 
-heart_clean <- read.csv("D:/Digital health project/CVD_cleaned_dataset.csv")
+data <- read.csv("CVD Risk Assessment Dataset.csv")
 # UI
 # ===============================
 
