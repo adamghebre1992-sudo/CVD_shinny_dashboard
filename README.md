@@ -9,11 +9,17 @@ The goal is to support **digital health data exploration and decision-making** t
 👉 [Click here to navigate through the shinny app ( https://adam-g.shinyapps.io/DHP1/)
 
 
- 📁 Project Files
+ 📁Project FIles
 
-- `app.R` → Main Shiny application script    
-- `README.md` → Project documentation  
+- `app.R` : Main Shiny application script    
+- `README.md`: Project documentation
+- CVD Risk Assessment Dataset.csv : Raw data set
+- CVD _ cleaned _ dataset.csv : Cleaned dataet
+
+  # Dataset Source
+  The raw dataset was taken from kaggle
 
 
-# How to Run the App Locally
+ #Author
+ Adam Ghebrezgiaher Ghebreyesus Msc GPH 
 
