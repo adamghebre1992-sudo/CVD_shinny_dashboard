@@ -5,7 +5,7 @@ account: adam-g
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 17501525
-bundleId:
+bundleId: 12141931
 url: https://adam-g.shinyapps.io/DHP1/
 version: 1
 asMultiple: FALSE
